@@ -1,0 +1,15 @@
+{
+  "keywordFileContentHash": "F37633F1B16B9FA8A300B95442A5A5BB",
+  "keywordClasses": [
+    {
+      "name": "classCelphone.Celphone",
+      "keywordMethods": [
+        {
+          "name": "initializedCelphone",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}
